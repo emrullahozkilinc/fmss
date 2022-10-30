@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="654d86fd-775b-4b73-868b-d0286432e79f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2DhWfSisjHU4UgTzrOO05KOrSjC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Emrullah7/IdeaProjects/fmss/src/main/java/odev/hafta6&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Emrullah7\IdeaProjects\fmss\src\main\java\odev\hafta6" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="odev.hafta5.oop_project" />
+      <recent name="odev.hafta6" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainClient">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="odev.hafta2.futbol_takimi.Main" />
+      <module name="fmss" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="odev.hafta2.futbol_takimi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sunum.proxy.MainClient" />
+      <module name="fmss" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sunum.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="odev.hafta2.classes.NumberUtil" />
+      <module name="fmss" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="odev.hafta2.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="odev.hafta4.sunum.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="odev.hafta4.sunum.Main" />
+      <module name="fmss" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="odev.hafta4.sunum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="odev.hafta6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="odev.hafta6.Main" />
+      <module name="fmss" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="odev.hafta6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClient" />
+        <item itemvalue="Application.NumberUtil" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.odev.hafta6.Main" />
+        <item itemvalue="Application.odev.hafta4.sunum.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="654d86fd-775b-4b73-868b-d0286432e79f" name="Changes" comment="" />
+      <created>1661151903885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661151903885</updated>
+      <workItem from="1661151906410" duration="4886000" />
+      <workItem from="1661176954642" duration="4224000" />
+      <workItem from="1661198852973" duration="324000" />
+      <workItem from="1661496384762" duration="4498000" />
+      <workItem from="1661765837648" duration="7407000" />
+      <workItem from="1662098417683" duration="5895000" />
+      <workItem from="1662187461407" duration="5181000" />
+      <workItem from="1662233779281" duration="925000" />
+      <workItem from="1662292061452" duration="2682000" />
+      <workItem from="1662364589203" duration="1686000" />
+      <workItem from="1663332801115" duration="1071000" />
+      <workItem from="1663346888788" duration="2031000" />
+      <workItem from="1663399064210" duration="34000" />
+      <workItem from="1663655504174" duration="2211000" />
+      <workItem from="1663657732126" duration="16000" />
+      <workItem from="1663857526628" duration="5689000" />
+      <workItem from="1663871972287" duration="3311000" />
+      <workItem from="1663917022570" duration="2196000" />
+      <workItem from="1663924012351" duration="9000" />
+      <workItem from="1666260326751" duration="6421000" />
+      <workItem from="1667045394346" duration="10080000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
